@@ -1,0 +1,1 @@
+This repo is from the [Build a Todo List App in HTML, CSS & JavaScript with LocalStorage](https://youtu.be/6eFwtaZf6zc) YouTube tutorial by [Tyler Potts](https://www.youtube.com/c/TylerPotts) [@TylerPottsDev](https://github.com/TylerPottsDev).
